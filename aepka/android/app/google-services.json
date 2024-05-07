@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "702988744727",
+    "project_id": "paswan-a8f8e",
+    "storage_bucket": "paswan-a8f8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702988744727:android:f5ca2e26d9c2e502648452",
+        "android_client_info": {
+          "package_name": "com.example.aepka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg8aDZ97HEBbV2XoOQyMgGM0LAJwCBZuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702988744727:android:cc8cbf938f8048d6648452",
+        "android_client_info": {
+          "package_name": "com.paswan.flutterfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg8aDZ97HEBbV2XoOQyMgGM0LAJwCBZuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

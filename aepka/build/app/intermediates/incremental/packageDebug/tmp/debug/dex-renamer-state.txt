@@ -1,4 +1,7 @@
-#Fri Apr 05 15:26:29 ICT 2024
-base.0=D\:\\AEPKA\\aepka\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Wed May 08 01:09:24 ICT 2024
+base.0=C\:\\TA\\AEPKA\\aepka\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+base.1=C\:\\TA\\AEPKA\\aepka\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
 path.0=classes.dex
+path.1=classes2.dex
 renamed.0=classes.dex
+renamed.1=classes2.dex

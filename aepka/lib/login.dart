@@ -1,31 +1,58 @@
 import 'package:flutter/material.dart';
-import 'homepage.dart'; // Import file homepage.dart
-import 'package:nes_ui/nes_ui.dart'; // Import library NES UI
+import 'homepage.dart';
+import 'RegisterPage.dart';
+import 'package:nes_ui/nes_ui.dart';
+import 'package:firebase_auth/firebase_auth.dart'; // Import Firebase Auth
 
 class LoginPage extends StatelessWidget {
+  final TextEditingController emailController = TextEditingController();
+  final TextEditingController passwordController = TextEditingController();
+
+  Future<void> _login(BuildContext context) async {
+    try {
+      UserCredential userCredential = await FirebaseAuth.instance.signInWithEmailAndPassword(
+        email: emailController.text,
+        password: passwordController.text,
+      );
+      
+      // Jika login berhasil, pindah ke halaman beranda
+      Navigator.pushReplacement(
+        context,
+        MaterialPageRoute(builder: (context) => HomePage()),
+      );
+    } catch (e) {
+      // Handle error
+      print("Error: $e");
+      // Tampilkan pesan kesalahan kepada pengguna
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text("Login gagal, Periksa Email dan Password."),
+        ),
+      );
+    }
+  }
+
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      theme: flutterNesTheme(),
-      title: 'Login Page',
-      home: Scaffold(
-        body: Container(
-          decoration: BoxDecoration(
-            gradient: LinearGradient(
-              colors: [
-                Color(0xFFBB11B9),
-                Color(0xFF0018BC),
-              ],
-              begin: Alignment.topLeft,
-              end: Alignment.bottomRight,
-            ),
+    return Scaffold(
+      body: Container(
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            colors: [
+              Color(0xFFBB11B9),
+              Color(0xFF0018BC),
+            ],
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
           ),
-          child: Center(
+        ),
+        child: Center(
+          child: SingleChildScrollView(
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 // Logo
-                Image.asset( 
+                Image.asset(
                   'assets/aepka.png',
                   width: 250,
                   height: 250,
@@ -46,6 +73,7 @@ class LoginPage extends StatelessWidget {
                   child: Column(
                     children: [
                       TextFormField(
+                        controller: emailController,
                         decoration: InputDecoration(
                           labelText: 'Email',
                           labelStyle: TextStyle(color: Colors.white),
@@ -62,6 +90,7 @@ class LoginPage extends StatelessWidget {
                       ),
                       SizedBox(height: 20),
                       TextFormField(
+                        controller: passwordController,
                         obscureText: true,
                         decoration: InputDecoration(
                           labelText: 'Password',
@@ -81,16 +110,7 @@ class LoginPage extends StatelessWidget {
                       NesButton(
                         onPressed: () {
                           // Handle login button pressed
-                          // Cek apakah username dan password benar
-                          // Jika benar, pindah ke halaman homepage
-                          String username = 'admin';
-                          String password = 'admin';
-                          if (username == 'admin' && password == 'admin') {
-                            Navigator.pushReplacement(
-                              context,
-                              MaterialPageRoute(builder: (context) => HomePage()),
-                            );
-                          }
+                          _login(context);
                         },
                         child: Text('Login'),
                         type: NesButtonType.success,
@@ -101,7 +121,21 @@ class LoginPage extends StatelessWidget {
                           // Handle forgot password button pressed
                         },
                         child: Text(
-                          'Forgot your password?',
+                          'Lupa Password?',
+                          style: TextStyle(color: Colors.white),
+                        ),
+                      ),
+                      SizedBox(height: 10),
+                      TextButton(
+                        onPressed: () {
+                          // Handle register button pressed
+                          Navigator.push(
+                            context,
+                            MaterialPageRoute(builder: (context) => RegisterPage()),
+                          );
+                        },
+                        child: Text(
+                          'Buat Akun',
                           style: TextStyle(color: Colors.white),
                         ),
                       ),
