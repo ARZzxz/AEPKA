@@ -45,9 +45,7 @@ dependencies:
   flutter_launcher_icons: ^0.13.1
 
 dev_dependencies:
-  alchemist:
-    git:
-      url: https://github.com/erickzanardo/alchemist
+  alchemist: ^0.7.0
   flutter_test:
     sdk: flutter
   mocktail: ">=0.3.0 <2.0.0"
