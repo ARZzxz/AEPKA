@@ -152,4 +152,4 @@ Kontribusi, saran, dan pelaporan isu sangat terbuka untuk pengembangan AEPKA ke 
 ## 📄 Lisensi & Hak Cipta
 
 Dikembangkan oleh **[ARZzxz](https://github.com/ARZzxz)**.  
-Hak Cipta © 2026 Proyek Edukasi Karakter AEPKA.
+Hak Cipta © 2026 Proyek Edukasi Karakter AEPKA
