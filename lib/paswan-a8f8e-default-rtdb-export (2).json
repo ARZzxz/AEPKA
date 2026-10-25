@@ -1,0 +1,709 @@
+{
+  "questions": {
+    "question1": {
+      "backgroundImage": "assets/gamebg/gbg_1.jpg",
+      "correctOptionIndex": 0,
+      "options": [
+        "Membantu",
+        "Bermain bersama Teman",
+        "Pura-pura tidak melihat"
+      ],
+      "question": "Saat ibu sedang mengecat tembok rumah, kita sebagai anak harus...."
+    },
+    "question3": {
+      "backgroundImage": "assets/gamebg/cucimobil1.jpg",
+      "correctOptionIndex": 1,
+      "options": [
+        "Bermain game",
+        "Membantu ayah",
+        "Tidur siang"
+      ],
+      "question": "Saat ayah sedang memperbaiki mobil, kita harus...."
+    },
+    "question4": {
+      "backgroundImage": "assets/gamebg/sampah1.jpg",
+      "correctOptionIndex": 0,
+      "options": [
+        "Mengambil dan membuangnya",
+        "Membiarkannya",
+        "Menambah sampah"
+      ],
+      "question": "Apa yang harus dilakukan ketika melihat sampah di jalan?"
+    },
+    "question5": {
+      "backgroundImage": "assets/gamebg/ayahkerja.jpg",
+      "correctOptionIndex": 0,
+      "options": [
+        "Membantu ibu",
+        "Bermain sepanjang hari",
+        "Pergi keluar tanpa izin"
+      ],
+      "question": "Saat ayah sedang pergi bekerja, apa yang sebaiknya kita lakukan di rumah?"
+    },
+    "question6": {
+      "backgroundImage": "assets/gamebg/gotongroyong.jpg",
+      "correctOptionIndex": 0,
+      "options": [
+        "Ikut serta dengan semangat",
+        "Melihat dari jauh",
+        "Bermain di tempat lain"
+      ],
+      "question": "Bagaimana sikap kita saat ada kerja bakti di lingkungan rumah?"
+    },
+    "question7": {
+      "backgroundImage": "assets/gamebg/pramuka.jpg",
+      "correctOptionIndex": 0,
+      "options": [
+        "Mengikuti dengan aktif",
+        "Bolos dan pergi bermain",
+        "Menghindar dan pulang ke rumah"
+      ],
+      "question": "Apa yang harus kita lakukan saat ada kegiatan pramuka di sekolah?"
+    },
+    "question8": {
+      "backgroundImage": "assets/gamebg/lansia.jpg",
+      "correctOptionIndex": 0,
+      "options": [
+        "Memberi salam dan senyum",
+        "Berjalan saja tanpa peduli",
+        "Menghindar dan pergi"
+      ],
+      "question": "Bagaimana sikap kita saat bertemu dengan orang yang lebih tua di jalan?"
+    },
+    "question9": {
+      "backgroundImage": "assets/gamebg/upacara.jpg",
+      "correctOptionIndex": 0,
+      "options": [
+        "Mengikuti dengan khidmat",
+        "Bermain saat upacara",
+        "Bolos upacara"
+      ],
+      "question": "Apa yang harus kita lakukan saat upacara bendera di sekolah?"
+    }
+  },
+  "users": {
+    "0KL71XNbCeNucEdpq4vEJIT7NTX2": {
+      "exp": 79500,
+      "level": 17,
+      "playingTime": 898,
+      "rank": "Mythril"
+    },
+    "0M9YvKT2WLTqM2yFN0ZYuI9SBm22": {
+      "exp": 800,
+      "level": 1,
+      "playingTime": 19,
+      "rank": "Bronze"
+    },
+    "0XgN0ROINSgO1O15svTjccKzSZG2": {
+      "exp": 260600,
+      "level": 17,
+      "playingTime": 596,
+      "rank": "Mythril"
+    },
+    "0lFrA8un51Qi24jZJGo85GGWEH12": {
+      "exp": 191200,
+      "level": 17,
+      "playingTime": 1055,
+      "rank": "Mythril"
+    },
+    "0tQhR0qvBzZzZi2HX1oqnt9EErD3": {
+      "exp": 295800,
+      "level": 17,
+      "playingTime": 3376,
+      "rank": "Mythril"
+    },
+    "34D7Wukq3va3nSOfxxmrrwUojam2": {
+      "exp": 34000,
+      "level": 17,
+      "playingTime": 1249,
+      "rank": "Mythril"
+    },
+    "36U6E6oABoUH3aAAq8gxKSi2zp12": {
+      "exp": 167700,
+      "level": 17,
+      "playingTime": 1000,
+      "rank": "Mythril"
+    },
+    "3DcgPmzUPRaHU4fU5Y86k0usgnI2": {
+      "exp": 0,
+      "level": 1,
+      "nickname": "kiana",
+      "playing_time": 0,
+      "rank": "Bronze"
+    },
+    "4y4jPdgLrEXfIdn81gF7fdZeppj2": {
+      "exp": 28000,
+      "level": 15,
+      "playingTime": 366,
+      "rank": "Diamond"
+    },
+    "519yjzCuFOfbxC4KS8zYtbMKp9m1": {
+      "exp": 155500,
+      "level": 17,
+      "playingTime": 2088,
+      "rank": "Mythril"
+    },
+    "5yqmYswywFUzPqJTayZGgSQb7tL2": {
+      "exp": 7200,
+      "level": 4,
+      "playingTime": 110,
+      "rank": "Gold"
+    },
+    "6AujnDffkebxugLi6mLg9rDKj0g2": {
+      "exp": 800,
+      "level": 1,
+      "playingTime": 12,
+      "rank": "Bronze"
+    },
+    "7PiQSpqVYKTNwIbpKYrFcrJqR5x1": {
+      "exp": 800,
+      "level": 1,
+      "playingTime": 15,
+      "rank": "Bronze"
+    },
+    "82hQazjo5MgHGp5FmofV5CMRj342": {
+      "exp": 72400,
+      "level": 17,
+      "playingTime": 652,
+      "rank": "Mythril"
+    },
+    "8CPirCcCbXhqeMuzcX4Gi53Dtvv2": {
+      "exp": 0,
+      "level": 1,
+      "nickname": "Rita",
+      "playing_time": 0,
+      "rank": "Bronze"
+    },
+    "8VZUna3HUMW2Eycol10KPCElWZC3": {
+      "exp": 28800,
+      "level": 15,
+      "playingTime": 563,
+      "rank": "Diamond"
+    },
+    "95zMycPsB1OWEtZ2jV68pHLFZv82": {
+      "exp": 85900,
+      "level": 18,
+      "playingTime": 747,
+      "rank": "Mythril"
+    },
+    "9piN56EiVZf4dLkPJUwTvfSnV963": {
+      "exp": 259600,
+      "level": 17,
+      "playingTime": 1651,
+      "rank": "Mythril"
+    },
+    "B0oRzMwOBBYaLjKx7A1auo3hk4v1": {
+      "exp": 8000,
+      "level": 5,
+      "playingTime": 93,
+      "rank": "Platinum"
+    },
+    "B9rFWcaQopMUykumU8NzBvbKOaw2": {
+      "exp": 58700,
+      "level": 17,
+      "playingTime": 151,
+      "rank": "Mythril"
+    },
+    "DvckQeQdrnU0N1914fSO5Fb5i4v1": {
+      "exp": 2700,
+      "level": 2,
+      "playingTime": 181,
+      "rank": "Silver"
+    },
+    "DwJc5fHmn4SlYI5iwbIteHGqYOk1": {
+      "exp": 195300,
+      "level": 18,
+      "playingTime": 1474,
+      "rank": "Mythril"
+    },
+    "EDUSpKIg8PWFYI2Kl4s0BhghywX2": {
+      "exp": 158900,
+      "level": 17,
+      "playingTime": 1852,
+      "rank": "Mythril"
+    },
+    "ELyB8BWQWhd9L8Ks0U2l0ha2S8z1": {
+      "exp": 574000,
+      "level": 17,
+      "playingTime": 2444,
+      "rank": "Mythril"
+    },
+    "FKCNo2RclfMwcPgDK9OGkpAPYl93": {
+      "exp": 141900,
+      "level": 17,
+      "playingTime": 958,
+      "rank": "Mythril"
+    },
+    "FiOINREwulPJJlvmJj1RyxNv7Jc2": {
+      "exp": 126100,
+      "level": 17,
+      "playingTime": 909,
+      "rank": "Mythril"
+    },
+    "GkTGdJkF5ianFs84xFKrBAzLktj2": {
+      "exp": 365200,
+      "level": 17,
+      "playingTime": 1911,
+      "rank": "Mythril"
+    },
+    "HFx5o850kEf6ESFaYNDUZE2DoQ23": {
+      "exp": 79000,
+      "level": 17,
+      "playingTime": 495,
+      "rank": "Mythril"
+    },
+    "HIOng4kDS8QCgxc1QXLBtSUxMhb2": {
+      "exp": 2218100,
+      "level": 17,
+      "playingTime": 16777,
+      "rank": "Mythril"
+    },
+    "HK8Q4RJUthXsVF8xPyvqNOolwFJ2": {
+      "exp": 416900,
+      "level": 17,
+      "playingTime": 2283,
+      "rank": "Mythril"
+    },
+    "HSQEUSsy0NfUOebibGb2oCWTxQ63": {
+      "exp": 489700,
+      "level": 28,
+      "playingTime": 3032,
+      "rank": "Mythril"
+    },
+    "HgQXjB3thkaYHZ2b1LoCFwPPKvB2": {
+      "exp": 101500,
+      "level": 16,
+      "playingTime": 404,
+      "rank": "Mythril"
+    },
+    "I9VT1v9wFya3vTARAHyVPrimsIF2": {
+      "exp": 0,
+      "level": 1,
+      "nickname": "Himeko",
+      "playing_time": 0,
+      "rank": "Bronze"
+    },
+    "IV2y4hXH5iS0cWYNvw5TO8PJ33W2": {
+      "exp": 193900,
+      "level": 17,
+      "playingTime": 1466,
+      "rank": "Mythril"
+    },
+    "J44LnVO0QDh8vSH5pS6TOo8VFEf2": {
+      "exp": 50600,
+      "level": 17,
+      "playingTime": 704,
+      "rank": "Mythril"
+    },
+    "JLAyt4f3WfMkpOQjf7y4zYzIV723": {
+      "exp": 77800,
+      "level": 17,
+      "playingTime": 306,
+      "rank": "Mythril"
+    },
+    "K1vtIAD72eXFXSIAgTRObVDlK573": {
+      "exp": 63200,
+      "level": 17,
+      "playingTime": 321,
+      "rank": "Mythril"
+    },
+    "NQvrxRnHdOTmKArjx8uB2JdIm7l1": {
+      "exp": 67000,
+      "level": 18,
+      "playingTime": 595,
+      "rank": "Mythril"
+    },
+    "O665VqhgbBdfpGojSx1yk8gK8Do1": {
+      "exp": 67800,
+      "level": 17,
+      "playingTime": 574,
+      "rank": "Mythril"
+    },
+    "O9uKVJenVfMwiiZPg7CsYb1A1Yo1": {
+      "exp": 800,
+      "level": 1,
+      "rank": "Bronze"
+    },
+    "PrNK9zq4oAPMlLVovsVSmIWjFtz2": {
+      "exp": 225800,
+      "level": 18,
+      "playingTime": 2568,
+      "rank": "Mythril"
+    },
+    "PwJzJmcXZZXoUaEFHjzFZhSMVK73": {
+      "exp": 4950400,
+      "level": 18,
+      "playingTime": 20245,
+      "rank": "Mythril"
+    },
+    "QYdE75ZFUwckUTtb08BRCQHqQbf2": {
+      "exp": 32000,
+      "level": 17,
+      "playingTime": 354,
+      "rank": "Mythril"
+    },
+    "Qw9hFmILFcgSsfA1qv93X5W5PNl1": {
+      "exp": 57500,
+      "level": 17,
+      "playingTime": 1102,
+      "rank": "Mythril"
+    },
+    "QxgNi9a4Ylg0SVkoJyPK53VQSRg1": {
+      "exp": 12700,
+      "level": 7,
+      "playingTime": 351,
+      "rank": "Platinum"
+    },
+    "RT1Ya75aOjfA96TGagpOai0hkYG3": {
+      "exp": 800,
+      "level": 1,
+      "playingTime": 9,
+      "rank": "Bronze"
+    },
+    "SOts2LyuFYRFmke9asCsld2Nr9U2": {
+      "exp": 2342100,
+      "level": 18,
+      "playingTime": 10633,
+      "rank": "Mythril"
+    },
+    "Swvo99yRWCSN9jamEGI4GxDbIBG2": {
+      "exp": 84500,
+      "level": 17,
+      "playingTime": 1061,
+      "rank": "Mythril"
+    },
+    "TYwKGPBkO7YQhBuYI5CdYmhBbWd2": {
+      "exp": 931500,
+      "level": 17,
+      "playingTime": 5767,
+      "rank": "Mythril"
+    },
+    "TZP8ZbJuPGetpKqaR29lnZvS7Sa2": {
+      "exp": 47300,
+      "level": 17,
+      "playingTime": 508,
+      "rank": "Mythril"
+    },
+    "UDFJmzOZlrRdrqQFvGQAjV4zqgu2": {
+      "exp": 1700,
+      "level": 1,
+      "playingTime": 223,
+      "rank": "Bronze"
+    },
+    "UdT6NE1xqCNEMIBizAfTPTsrXFS2": {
+      "exp": 44400,
+      "level": 17,
+      "playingTime": 257,
+      "rank": "Mythril"
+    },
+    "Uj6vhOoqoZhCdaVHxulemOYifvs1": {
+      "exp": 40400,
+      "level": 17,
+      "playingTime": 754,
+      "rank": "Mythril"
+    },
+    "UnYtv1woPjT6rV9n6rGmwZ7HpwG3": {
+      "exp": 113000,
+      "level": 15,
+      "playingTime": 804,
+      "rank": "Mythril"
+    },
+    "V9pYFBG4puRgkb9Jt2BNKhI0HHG3": {
+      "exp": 10300,
+      "level": 6,
+      "playingTime": 189,
+      "rank": "Platinum"
+    },
+    "WMVAXjJFnreMc97PLKK4u61irDn2": {
+      "exp": 55600,
+      "level": 17,
+      "playingTime": 902,
+      "rank": "Mythril"
+    },
+    "WNgt32tcgiRreJLewJeXYyYRUf73": {
+      "exp": 33400,
+      "level": 16,
+      "playingTime": 275,
+      "rank": "Mythril"
+    },
+    "WoyaCLheGoYaMEDjAWV9gIN74bE3": {
+      "exp": 56400,
+      "level": 17,
+      "playingTime": 1165,
+      "rank": "Mythril"
+    },
+    "Y0mTAzHaTFSGmIZKxUbIFUCRwXh2": {
+      "exp": 334800,
+      "level": 17,
+      "playingTime": 4893,
+      "rank": "Mythril"
+    },
+    "Y8s3uluiSoc6ideKlTQ4rrRs2ei2": {
+      "exp": 120700,
+      "level": 18,
+      "playingTime": 1624,
+      "rank": "Mythril"
+    },
+    "YsD0z2z8dUdMlSEiJMIDqnUT8an2": {
+      "exp": 1800,
+      "level": 1,
+      "playingTime": 16,
+      "rank": "Bronze"
+    },
+    "Z4qppvM3uHUyNm1oSgZF4VE7CoG3": {
+      "exp": 47400,
+      "level": 17,
+      "playingTime": 434,
+      "rank": "Mythril"
+    },
+    "ZDZqP8TLrcNayFZknuF1ozqDCYi2": {
+      "exp": 51800,
+      "level": 17,
+      "playingTime": 626,
+      "rank": "Mythril"
+    },
+    "ZmMpGtB4Q7XtXX5xlXrIsq5j5iv2": {
+      "exp": 11800,
+      "level": 6,
+      "playingTime": 369,
+      "rank": "Platinum"
+    },
+    "a6pzpMBhqGZbJDggUMLNuX6Fw1r1": {
+      "exp": 32900,
+      "level": 17,
+      "playingTime": 158,
+      "rank": "Mythril"
+    },
+    "bNuwoaC0j8NJRnd2rec5Pp7VO2f2": {
+      "exp": 4227400,
+      "level": 17,
+      "playingTime": 14108,
+      "rank": "Mythril"
+    },
+    "bY540M0RTYYgaGSlnPshlQpN3p03": {
+      "exp": 21400,
+      "level": 11,
+      "playingTime": 290,
+      "rank": "Diamond"
+    },
+    "biH3PNOneRglp8MzM0xX3hez1cV2": {
+      "exp": 64300,
+      "level": 17,
+      "playingTime": 939,
+      "rank": "Mythril"
+    },
+    "coJsWKuIJGgvbZtsiThQ5n0dJgj1": {
+      "exp": 21000,
+      "level": 11,
+      "playingTime": 374,
+      "rank": "Diamond"
+    },
+    "d3DrOE66kAUDLdGmBGjAwgRIfbs2": {
+      "exp": 1104600,
+      "level": 17,
+      "playingTime": 5412,
+      "rank": "Mythril"
+    },
+    "eLMw8zZ3S6fw0TkCx5dIoc3AMyJ2": {
+      "exp": 12400,
+      "level": 7,
+      "playingTime": 262,
+      "rank": "Platinum"
+    },
+    "gYZVC9LQ1PMvxQHcIFEjg7uahRo2": {
+      "exp": 208700,
+      "level": 17,
+      "playingTime": 1166,
+      "rank": "Mythril"
+    },
+    "ghexRaKhGiNgoQmZHYFnbmeot4G2": {
+      "exp": 820500,
+      "level": 18,
+      "playingTime": 4631,
+      "rank": "Mythril"
+    },
+    "h3W8V8BWDxgVRwInZv6YHrcy8w03": {
+      "exp": 61900,
+      "level": 17,
+      "playingTime": 415,
+      "rank": "Mythril"
+    },
+    "hBHzZjRuZEQPArhMaWHyFXlKVWq1": {
+      "exp": 434600,
+      "level": 17,
+      "playingTime": 2645,
+      "rank": "Mythril"
+    },
+    "kKQa6C3e92eTUUq35OXU6iLsTdI2": {
+      "exp": 49500,
+      "level": 17,
+      "playingTime": 634,
+      "rank": "Mythril"
+    },
+    "kd0Ifd6IH2VnPmJ1geNduIBpgZR2": {
+      "exp": 84300,
+      "level": 17,
+      "playingTime": 663,
+      "rank": "Mythril"
+    },
+    "kllnP0Z1mlgtzVb5mhklggMedJY2": {
+      "exp": 800,
+      "level": 1,
+      "rank": "Bronze"
+    },
+    "mCKyzdH1UfgDHsbq3YZsMwF3tPd2": {
+      "exp": 3000,
+      "level": 2,
+      "playingTime": 63,
+      "rank": "Silver"
+    },
+    "mXBzsRnfVrVMKPSzuCnEHHinytr1": {
+      "exp": 41600,
+      "level": 17,
+      "playingTime": 1416,
+      "rank": "Mythril"
+    },
+    "mimDYtyvXpTcm0mxsHuOMoblrOn1": {
+      "exp": 200300,
+      "level": 17,
+      "playingTime": 1000,
+      "rank": "Mythril"
+    },
+    "o05eBiUvF5PWp8weh3r1zJzOjcH2": {
+      "exp": 2560900,
+      "level": 17,
+      "playingTime": 9032,
+      "rank": "Mythril"
+    },
+    "otmBoX9CmUMXmpbocVslOt5oHrQ2": {
+      "exp": 64000,
+      "level": 18,
+      "playingTime": 478,
+      "rank": "Mythril"
+    },
+    "pgB1VQlzOkZp65nh7t7A4VyTrJe2": {
+      "exp": 105800,
+      "level": 15,
+      "playingTime": 1780,
+      "rank": "Mythril"
+    },
+    "q9LCPiosBJbgYiPUFplIVjLdgyw2": {
+      "exp": 3900,
+      "level": 2,
+      "playingTime": 105,
+      "rank": "Silver"
+    },
+    "qrzv73F9AbeVmJYmMec7GfKcmaO2": {
+      "exp": 5100,
+      "level": 3,
+      "playingTime": 217,
+      "rank": "Gold"
+    },
+    "rTNUK7uk8Vb7gl9x7Ot0IIFObsG2": {
+      "exp": 57100,
+      "level": 17,
+      "playingTime": 628,
+      "rank": "Mythril"
+    },
+    "rmVExEOqbPVY9MBkenqqRoegCPr1": {
+      "exp": 800,
+      "level": 1,
+      "playingTime": 11,
+      "rank": "Bronze"
+    },
+    "sEPYfJTLErb5NwWRyIx4aSSTFCa2": {
+      "exp": 51000,
+      "level": 17,
+      "playingTime": 1122,
+      "rank": "Mythril"
+    },
+    "sPNux1ekGRdmnKuwb8IqaS0WbgJ3": {
+      "exp": 9600,
+      "level": 5,
+      "playingTime": 130,
+      "rank": "Platinum"
+    },
+    "sWhxB3yz7rgIUt7Qi2JjsuD5SlE2": {
+      "exp": 1068600,
+      "level": 18,
+      "playingTime": 1441,
+      "rank": "Mythril"
+    },
+    "sYu75jCselXii28GboUNIcQGXvV2": {
+      "exp": 8300000,
+      "level": 4321,
+      "nickname": "durandal",
+      "playingTime": 464502,
+      "playing_time": 0,
+      "rank": "Herrscher"
+    },
+    "uCUyMcjJ33dx8pGFOP6k3Hyg97H2": {
+      "exp": 3300,
+      "level": 2,
+      "playingTime": 89,
+      "rank": "Silver"
+    },
+    "uQVLz8u5B0PWh9qZy8QOxa27FIi2": {
+      "exp": 72000,
+      "level": 17,
+      "playingTime": 511,
+      "rank": "Mythril"
+    },
+    "uloI4A1kdzboWWm9BHgsv7tS7602": {
+      "exp": 50300,
+      "level": 17,
+      "playingTime": 427,
+      "rank": "Mythril"
+    },
+    "userId1": {
+      "exp": 0,
+      "level": 1,
+      "nickname": "UserNickname1",
+      "playing_time": 0,
+      "quizzes": {
+        "quizId1": {
+          "expGained": 500,
+          "score": 5
+        }
+      },
+      "rank": "Bronze"
+    },
+    "userId2": {
+      "exp": 3000,
+      "level": 2,
+      "nickname": "UserNickname2",
+      "playing_time": 30,
+      "quizzes": {
+        "quizId2": {
+          "expGained": 300,
+          "score": 3
+        }
+      },
+      "rank": "Silver"
+    },
+    "uwFR0askB6Qw9wm1BhD7ZOWfrTw2": {
+      "exp": 800,
+      "level": 1,
+      "playingTime": 37,
+      "rank": "Bronze"
+    },
+    "weqIXDXCgVMnleRwASFpQuTP31l1": {
+      "exp": 3800,
+      "level": 2,
+      "playingTime": 126,
+      "rank": "Silver"
+    },
+    "xzTQslGAZQf47oUQCRvPJFdO4Tq1": {
+      "exp": 570900,
+      "level": 17,
+      "playingTime": 1949,
+      "rank": "Mythril"
+    },
+    "zROIjd52ihctvKKxYvNrwVfxl0D2": {
+      "exp": 37300,
+      "level": 17,
+      "playingTime": 458,
+      "rank": "Mythril"
+    }
+  }
+}

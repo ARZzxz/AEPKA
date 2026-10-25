@@ -1,0 +1,126 @@
+{
+  "questions": {
+    "question1": {
+      "backgroundImage": "assets/gamebg/gbg_1.jpg",
+      "correctOptionIndex": 0,
+      "options": [
+        "Membantu",
+        "Bermain bersama Teman",
+        "Pura-pura tidak melihat"
+      ],
+      "question": "Saat ibu sedang mengecat tembok rumah, kita sebagai anak harus...."
+    },
+    "question3": {
+      "backgroundImage": "assets/gamebg/cucimobil1.jpg",
+      "correctOptionIndex": 1,
+      "options": [
+        "Bermain game",
+        "Membantu ayah",
+        "Tidur siang"
+      ],
+      "question": "Saat ayah sedang memperbaiki mobil, kita harus...."
+    },
+    "question4": {
+      "backgroundImage": "assets/gamebg/sampah1.jpg",
+      "correctOptionIndex": 0,
+      "options": [
+        "Mengambil dan membuangnya",
+        "Membiarkannya",
+        "Menambah sampah"
+      ],
+      "question": "Apa yang harus dilakukan ketika melihat sampah di jalan?"
+    },
+    "question5": {
+      "backgroundImage": "assets/gamebg/ayahkerja.jpg",
+      "correctOptionIndex": 0,
+      "options": [
+        "Membantu ibu",
+        "Bermain sepanjang hari",
+        "Pergi keluar tanpa izin"
+      ],
+      "question": "Saat ayah sedang pergi bekerja, apa yang sebaiknya kita lakukan di rumah?"
+    },
+    "question6": {
+      "backgroundImage": "assets/gamebg/gotongroyong.jpg",
+      "correctOptionIndex": 0,
+      "options": [
+        "Ikut serta dengan semangat",
+        "Melihat dari jauh",
+        "Bermain di tempat lain"
+      ],
+      "question": "Bagaimana sikap kita saat ada kerja bakti di lingkungan rumah?"
+    },
+    "question7": {
+      "backgroundImage": "assets/gamebg/pramuka.jpg",
+      "correctOptionIndex": 0,
+      "options": [
+        "Mengikuti dengan aktif",
+        "Bolos dan pergi bermain",
+        "Menghindar dan pulang ke rumah"
+      ],
+      "question": "Apa yang harus kita lakukan saat ada kegiatan pramuka di sekolah?"
+    },
+    "question8": {
+      "backgroundImage": "assets/gamebg/lansia.jpg",
+      "correctOptionIndex": 0,
+      "options": [
+        "Memberi salam dan senyum",
+        "Berjalan saja tanpa peduli",
+        "Menghindar dan pergi"
+      ],
+      "question": "Bagaimana sikap kita saat bertemu dengan orang yang lebih tua di jalan?"
+    },
+    "question9": {
+      "backgroundImage": "assets/gamebg/upacara.jpg",
+      "correctOptionIndex": 0,
+      "options": [
+        "Mengikuti dengan khidmat",
+        "Bermain saat upacara",
+        "Bolos upacara"
+      ],
+      "question": "Apa yang harus kita lakukan saat upacara bendera di sekolah?"
+    }
+  },
+  "users": {
+    "3DcgPmzUPRaHU4fU5Y86k0usgnI2": {
+      "exp": 0,
+      "level": 1,
+      "nickname": "kiana",
+      "playing_time": 0,
+      "rank": "Bronze"
+    },
+    "sYu75jCselXii28GboUNIcQGXvV2": {
+      "exp": 0,
+      "level": 1,
+      "nickname": "durandal",
+      "playing_time": 0,
+      "rank": "Bronze"
+    },
+    "userId1": {
+      "exp": 0,
+      "level": 1,
+      "nickname": "UserNickname1",
+      "playing_time": 0,
+      "quizzes": {
+        "quizId1": {
+          "expGained": 500,
+          "score": 5
+        }
+      },
+      "rank": "Bronze"
+    },
+    "userId2": {
+      "exp": 3000,
+      "level": 2,
+      "nickname": "UserNickname2",
+      "playing_time": 30,
+      "quizzes": {
+        "quizId2": {
+          "expGained": 300,
+          "score": 3
+        }
+      },
+      "rank": "Silver"
+    }
+  }
+}
